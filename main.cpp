@@ -21,7 +21,6 @@ int main() {
 
     cout << "Voyager Route (Forward):\n";
     voyagerRoute.traverseForward();
-
     cout << "\nVoyager Route (Backward):\n";
     voyagerRoute.traverseBackward();
 
